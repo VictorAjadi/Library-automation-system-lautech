@@ -1,0 +1,15 @@
+.max-h{
+  height: 100vh;
+}
+.adjust-scanner{
+  margin:10% auto;
+  width: 90%;
+  height: 100vh;
+}
+#reader{
+  height: 90%;
+  width: 90%;
+  max-width: 90%;
+  max-height: 90%;
+  margin: 0 auto;
+}
